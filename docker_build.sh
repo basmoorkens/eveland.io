@@ -1,1 +1,1 @@
-sudo docker build . -t eqd-slots-frontend
+sudo docker build . -t eveland_io
