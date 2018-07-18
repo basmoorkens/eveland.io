@@ -12,7 +12,7 @@ if(isset($_POST["phone"])){
 $phone = $_POST["phone"];
 }
 
-$to = "bas.moorkens@gmail.com";
+$to = "garthwells4@gmail.com";
 $subject="Eveland.io - contact form";
 $body = "<html><head></head><body>On: " . date('Y/m/d H:i:s') .
         "\n<br /> Name:  " . $name .
