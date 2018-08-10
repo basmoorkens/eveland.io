@@ -28,7 +28,7 @@ function send_mailgun($to, $subject, $body, $from){
 
         $config = array();
 
-        $config['api_key'] = "key-86494fe915f4b09e3f5e85efbc679435";
+        $config['api_key'] = "YOUR KEY";
 
 $config['api_url'] = "https://api.mailgun.net/v3/sandbox225421aaa2cc4212aa5088cacf302930.mailgun.org/messages";
 
